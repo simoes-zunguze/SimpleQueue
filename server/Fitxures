@@ -1,0 +1,26 @@
+Control network avalibilite
+
+access control general ticket queuemonitor
+
+Review totals
+
+User for each queue
+
+Logout stop setIntreval
+
+Prevent Brute force
+
+Review Events for all actions
+
+Snoozed List / Max and min Time
+
+ACL
+
+
+setIntreval Before call next ticket
+
+Pusher
+
+* Remove estatistics
+* Use TLS to true "broadcasting.php"
+* change the keys .env
